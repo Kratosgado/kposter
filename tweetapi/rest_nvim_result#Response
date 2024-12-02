@@ -1,0 +1,7 @@
+### tweet#7
+POST https://x.com/i/api/graphql/znq7jUAqRjmPj7IszLem5Q/CreateTweet 
+HTTP/2 403 
+
+# @_RES
+
+# @_END
